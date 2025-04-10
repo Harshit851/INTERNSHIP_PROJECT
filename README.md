@@ -1,6 +1,4 @@
 # INTERNSHIP_PROJECT
-# Project Title: (e.g., "Gemini-Powered SQL Query Generator")
-
 Description:
 
 This project automates the process of generating and executing SQL queries against a dataset using natural language questions. It leverages Google's Gemini generative AI model to translate user queries into SQL and Python's sqlite3 library to interact with an SQLite database.    
